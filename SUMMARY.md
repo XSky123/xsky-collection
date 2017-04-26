@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Design](chapter1.md)
+* [Design](design.md)
 * [Develop](develop.md)
 
