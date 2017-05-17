@@ -46,12 +46,18 @@
 
 [http://zhitu.isux.us/](http://zhitu.isux.us/)
 
-### 
-
 ### Convert.co -- 多种格式包括PDF等在线转换工具
 
 [https://convertio.co/zh/](https://convertio.co/zh/)
 
+### CloudConvert -- 比Convert.co更好用的在线转换工具
+
+[https://cloudconvert.com/](https://cloudconvert.com/)
+
+### Ocr.space -- 在线及离线的OCR解决方案，包括Chrome插件
+[https://ocr.space/](https://ocr.space/)
+
+  
 ## 创意相关
 
 ### 网页设计常用色彩搭配表
